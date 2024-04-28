@@ -51,7 +51,6 @@ Use These Keywords To Setup Custom File Name
     ABOUT_TXT = f"""<b>🤖 My Name :</b> <a href='https://t.me/AutoRenameXBot'>Auto Rename Bot ⚡</a>
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-
 <b>📢 Channel :</b> <a href='https://t.me/https://t.me/Dynamite_Animes_Hindi_Dubbed</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/Takievil'> Developer</a>
     
